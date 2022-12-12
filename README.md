@@ -2,7 +2,7 @@
 
 ## Chapter I
 
-![3dviewer2.0](misc/images/1.PNG)
+![3dviewer2.0](misc/images/1.png)
 
 ## Introduction
 
